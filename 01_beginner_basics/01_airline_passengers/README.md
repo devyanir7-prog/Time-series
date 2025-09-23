@@ -41,6 +41,6 @@ Steps:
 - **Naive Forecast** → High error, poor fit
 - **Seasonal Naive** → Better, captures yearly pattern
 - **ARIMA** → Best model among baselines
-  - Example: MAE ≈ *14.89*, RMSE ≈ *18.53* (fill with your notebook results)
+  - Example: MAE ≈ *14.89*, RMSE ≈ *18.53* 
 
 👉 See `results_airline_passengers.csv` for final forecasts.
